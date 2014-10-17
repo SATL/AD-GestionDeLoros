@@ -10,6 +10,6 @@ package ad.gestionloros.model.pojo;
  *
  * @author alumno
  */
-public class ScientificTest {
+public class PruebaCientifica {
     
 }
